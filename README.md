@@ -19,3 +19,9 @@ Bubble Universe integrated with Syberians on November 22, 2025
 Metal Acceleration Added November 25, 2025
 Updated for BREW on October 27, 2025
 
+LISSA SAVER ✨ macOS Installation
+
+	🍺  BREW INSTALL
+	brew tap johnrpenner/tap
+	brew install --cask lissasaver
+
